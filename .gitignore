@@ -1,5 +1,6 @@
 *.arff
 *.cxx
+*.vcxproj.user
 debug/
 Debug/
 release/
